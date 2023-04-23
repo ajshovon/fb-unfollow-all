@@ -54,7 +54,7 @@ prompt("Please copy links:", text);
 - Configure Tab Wrangler like this:
     - Close inactive tabs after:1 min 30 sec
 
-- Open Violentmonkey and add this user script. Please enable the script only when you are automating facebook unfollow
+- Install the user script by [clicking here](https://github.com/shovon668/fb-unfollow-all/raw/main/assets/unfollow-fb.user.js) or manually by adding this user script in the manager. Please enable the script only when you are automating Facebook unfollowing.
 ```
 // ==UserScript==
 // @name        Unfollow People - Facebook
